@@ -6,7 +6,7 @@ Welcome to my GitHub space! I'm a dedicated Front-End Developer with a passion f
 
 - 🖥️ I specialize in **Web Development**, particularly in the front-end realm.
 - 💡 I’m passionate about building intuitive, user-friendly interfaces.
-- 🌐 You can find my personal portfolio website [here](https://marcoates.github.io/MB-website/).
+- 🌐 You can find my personal portfolio website [here](https://marcobraggion.com).
 
 ## I'm Looking For
 
